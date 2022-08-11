@@ -1,6 +1,6 @@
 # Wordpress sites for distilling company
 
-### This project was done under Wimma Lab
+#### This project was done under Wimma Lab
 
 ## Tools used
 
