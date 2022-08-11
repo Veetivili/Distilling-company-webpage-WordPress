@@ -37,4 +37,4 @@ Migrating from local host to customers web servers was done by me.
 
 This whole project was completed in 4 weeks. Everyone of us were using WordPress for the first time.
 
-![Turkudistellery-Website](https://turkudistillery.com/)
+[Turkudistillery-Website](https://turkudistillery.com/)
