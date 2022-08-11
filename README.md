@@ -13,6 +13,7 @@
 
 I designed a layout and general view of the website.  
 First scratch of the mockup: 
+
 ![Mockupv1](https://user-images.githubusercontent.com/98405476/184098652-41de024f-adf5-4267-a9b1-4b570d126b9f.png)  
 
 Together with Santtu Korpisalo we perfected the mockup.  
@@ -22,7 +23,7 @@ Final mockup (We were still missing some pictures from product owner.):
 
 Hanna Salminen designed the website footer:  
 
-![Mockup-footer](https://user-images.githubusercontent.com/98405476/184099543-1c26d45e-68f1-4a36-a145-e1904f5efb59.png)
+![Mockup-footer](https://user-images.githubusercontent.com/98405476/184099543-1c26d45e-68f1-4a36-a145-e1904f5efb59.png)  
 
 ### Production
 
