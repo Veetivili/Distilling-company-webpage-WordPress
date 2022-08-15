@@ -19,11 +19,11 @@ First scratch of the mockup:
 Together with Santtu Korpisalo we perfected the mockup.  
 We recieved images on last sprint so in that time schedule we prioritized finnishing actual website and mockup was left unfinished.  
 
-<img src="https://user-images.githubusercontent.com/98405476/184099193-dc71b174-bf7e-43b2-87cd-42b43a840e64.png" alt="mockupv2" style="width:200px";/>  
+<img src="https://user-images.githubusercontent.com/98405476/184099193-dc71b174-bf7e-43b2-87cd-42b43a840e64.png" alt="mockupv2" style="width:200px;"/>  
 
 Hanna Salminen designed the website footer:  
 
-<img src="https://user-images.githubusercontent.com/98405476/184099543-1c26d45e-68f1-4a36-a145-e1904f5efb59.png" alt="mockup-footer" style="width:200px";/>  
+<img src="https://user-images.githubusercontent.com/98405476/184099543-1c26d45e-68f1-4a36-a145-e1904f5efb59.png" alt="mockup-footer" style="width:200px;"/>  
 
 ### Production
 
