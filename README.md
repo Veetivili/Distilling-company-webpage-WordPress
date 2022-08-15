@@ -14,7 +14,8 @@
 I designed a layout and general view of the website.  
 First scratch of the mockup: 
 
-![Mockupv1](https://user-images.githubusercontent.com/98405476/184098652-41de024f-adf5-4267-a9b1-4b570d126b9f.png)  
+
+<img src="https://user-images.githubusercontent.com/98405476/184098652-41de024f-adf5-4267-a9b1-4b570d126b9f.png" alt="Mockupv1" style="width:200px;"/>
 
 Together with Santtu Korpisalo we perfected the mockup.  
 Final mockup (We were still missing some pictures from product owner.):  
